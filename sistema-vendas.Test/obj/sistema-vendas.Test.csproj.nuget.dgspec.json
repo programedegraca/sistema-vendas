@@ -1,0 +1,153 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/sistema-vendas.Test.csproj": {}
+  },
+  "projects": {
+    "/home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Api/sistema-vendas.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Api/sistema-vendas.Api.csproj",
+        "projectName": "sistema-vendas.Api",
+        "projectPath": "/home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Api/sistema-vendas.Api.csproj",
+        "packagesPath": "/home/leonardo/.nuget/packages/",
+        "outputPath": "/home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/leonardo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/224/sdk/7.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/sistema-vendas.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/sistema-vendas.Test.csproj",
+        "projectName": "sistema-vendas.Test",
+        "projectPath": "/home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/sistema-vendas.Test.csproj",
+        "packagesPath": "/home/leonardo/.nuget/packages/",
+        "outputPath": "/home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/leonardo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Api/sistema-vendas.Api.csproj": {
+                "projectPath": "/home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Api/sistema-vendas.Api.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.7.1, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.4.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/224/sdk/7.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

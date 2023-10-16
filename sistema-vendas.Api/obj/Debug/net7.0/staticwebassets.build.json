@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "znVhRTi8DPo2rzJ5IrFa9e/h0ff2AFI20ANcdvMThwE=",
+  "Source": "sistema-vendas.Api",
+  "BasePath": "_content/sistema-vendas.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
