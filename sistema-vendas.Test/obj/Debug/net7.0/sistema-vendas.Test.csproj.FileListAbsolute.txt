@@ -1,3 +1,9 @@
+/home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/bin/Debug/net7.0/CoverletSourceRootsMapping
+/home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/bin/Debug/net7.0/sistema-vendas.Api.deps.json
+/home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/bin/Debug/net7.0/sistema-vendas.Api.runtimeconfig.json
+/home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/bin/Debug/net7.0/appsettings.Development.json
+/home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/bin/Debug/net7.0/appsettings.json
+/home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/bin/Debug/net7.0/sistema-vendas.Api
 /home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/bin/Debug/net7.0/NUnit3.TestAdapter.dll
 /home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/bin/Debug/net7.0/NUnit3.TestAdapter.pdb
 /home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/bin/Debug/net7.0/nunit.engine.dll
@@ -8,7 +14,9 @@
 /home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/bin/Debug/net7.0/sistema-vendas.Test.runtimeconfig.json
 /home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/bin/Debug/net7.0/sistema-vendas.Test.dll
 /home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/bin/Debug/net7.0/sistema-vendas.Test.pdb
+/home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
 /home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/bin/Debug/net7.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/bin/Debug/net7.0/Microsoft.OpenApi.dll
 /home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/bin/Debug/net7.0/Microsoft.TestPlatform.CoreUtilities.dll
 /home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/bin/Debug/net7.0/Microsoft.TestPlatform.PlatformAbstractions.dll
 /home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
@@ -20,6 +28,9 @@
 /home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/bin/Debug/net7.0/Newtonsoft.Json.dll
 /home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/bin/Debug/net7.0/NuGet.Frameworks.dll
 /home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/bin/Debug/net7.0/nunit.framework.dll
+/home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
 /home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
 /home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/bin/Debug/net7.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
 /home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/bin/Debug/net7.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
@@ -85,6 +96,8 @@
 /home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 /home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 /home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/bin/Debug/net7.0/sistema-vendas.Api.dll
+/home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/bin/Debug/net7.0/sistema-vendas.Api.pdb
 /home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/obj/Debug/net7.0/sistema-vendas.Test.csproj.AssemblyReference.cache
 /home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/obj/Debug/net7.0/sistema-vendas.Test.GeneratedMSBuildEditorConfig.editorconfig
 /home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/obj/Debug/net7.0/sistema-vendas.Test.AssemblyInfoInputs.cache
@@ -96,16 +109,3 @@
 /home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/obj/Debug/net7.0/sistema-vendas.Test.pdb
 /home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/obj/Debug/net7.0/sistema-vendas.Test.genruntimeconfig.cache
 /home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/obj/Debug/net7.0/ref/sistema-vendas.Test.dll
-/home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/bin/Debug/net7.0/CoverletSourceRootsMapping
-/home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/bin/Debug/net7.0/sistema-vendas.Api.deps.json
-/home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/bin/Debug/net7.0/sistema-vendas.Api.runtimeconfig.json
-/home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/bin/Debug/net7.0/appsettings.Development.json
-/home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/bin/Debug/net7.0/appsettings.json
-/home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/bin/Debug/net7.0/sistema-vendas.Api
-/home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
-/home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/bin/Debug/net7.0/Microsoft.OpenApi.dll
-/home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
-/home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
-/home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
-/home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/bin/Debug/net7.0/sistema-vendas.Api.dll
-/home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Test/bin/Debug/net7.0/sistema-vendas.Api.pdb
