@@ -1,10 +1,16 @@
+using System.ComponentModel.DataAnnotations;
+using Swashbuckle.AspNetCore.Annotations;
+
 namespace sistema_vendas;
 
 public class Vendedor 
 {
-    public int CPF { get; set; }
+    [Key]
+    [SwaggerSchema(ReadOnly = true)]
+    public int Id { get; set;}
+    public string CPF { get; set; }
 
-    public String Nome { get; set; }
+    public string Nome { get; set; }
 
     public string Telefone { get; set; }
 
