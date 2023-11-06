@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "I3Bl8Kn+idnxupQNzTSocLS0Vwo5lW3H9pmBvhIjNeNR7UyVETrPC3cuXvmnIKpT7MLpJBKuaXgfPSYcHSeAKw==",
+  "dgSpecHash": "UoeX4FNHX48KVY0avfNClbRlc9fy+ME1e8+KnaaukJngq59hdXDkS4YS5fstwvvv4OAqWfiydfsQ4Lz4G5KqDQ==",
   "success": true,
   "projectFilePath": "/home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Api/sistema-vendas.Api.csproj",
   "expectedPackageFiles": [
+    "/home/leonardo/.nuget/packages/fluentvalidation/11.8.0/fluentvalidation.11.8.0.nupkg.sha512",
     "/home/leonardo/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/leonardo/.nuget/packages/microsoft.aspnetcore.openapi/7.0.11/microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
     "/home/leonardo/.nuget/packages/microsoft.data.sqlite/7.0.13/microsoft.data.sqlite.7.0.13.nupkg.sha512",

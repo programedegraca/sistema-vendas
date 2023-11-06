@@ -68,3 +68,4 @@
 /home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Api/bin/Debug/net7.0/Mono.TextTemplating.dll
 /home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Api/bin/Debug/net7.0/System.CodeDom.dll
 /home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.Annotations.dll
+/home/leonardo/Projetos/ProgrameDeGraca/sistema-vendas/sistema-vendas.Api/bin/Debug/net7.0/FluentValidation.dll
